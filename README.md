@@ -16,90 +16,26 @@ To the journey to become a full-stack web developer and a typical coding assessm
 
 ## Problem
 
-```
-AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
-```
 
-## Acceptance Criteria
 
-```
-GIVEN I am taking a code quiz
-WHEN I click the start button
-THEN a timer starts and I am presented with a question
-WHEN I answer a question
-THEN I am presented with another question
-WHEN I answer a question incorrectly
-THEN time is subtracted from the clock
-WHEN all questions are answered or the timer reaches 0
-THEN the game is over
-WHEN the game is over
-THEN I can save my initials and my score
-```
+The task to take a timed quiz on JavaScript fundamentals that stores high scores
+
+
+
+## Solution
+
+
+When  I am taking a code quiz, I click the start button and  a timer starts and I am presented with a question and  I answer a question 
+and I am presented with another question and I answer a question incorrectly then the time is subtracted from the clock and  all questions are answered or the timer reaches 0
+THEN the game is over .When  the game is over and I can save my initials and my score.
+
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+<img width="1687" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/ac888657-df3c-42d4-af3f-36b254256d3f">
+<img width="1672" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/a91fbd8b-2b07-4147-a86c-27ceaa0c1101">
+<img width="1677" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/6e62f010-e13a-4ba4-8914-56d87d156449">
+<img width="1569" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/7bc8d0db-f59d-4275-a129-dd5ab8b0fb3b">
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
 
-## Grading Requirements
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
-
-This Challenge is graded based on the following criteria: 
-
-### Technical Acceptance Criteria: 40%
-
-* Satisfies all of the preceding acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Application Quality: 15%
-
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the functional, deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
----
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
