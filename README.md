@@ -32,6 +32,9 @@ THEN the game is over .When  the game is over and I can save my initials and my 
 
 ## Mock-Up
 
+Deployed page: https://meerkar.github.io/Web-api/
+
+
 <img width="1687" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/ac888657-df3c-42d4-af3f-36b254256d3f">
 <img width="1672" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/a91fbd8b-2b07-4147-a86c-27ceaa0c1101">
 <img width="1677" alt="image" src="https://github.com/MeerKar/Web-api/assets/116701851/6e62f010-e13a-4ba4-8914-56d87d156449">
